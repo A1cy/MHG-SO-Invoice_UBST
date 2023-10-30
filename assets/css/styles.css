@@ -122,9 +122,9 @@ section {
   height: 100%;
   border-top: 2px solid #ccc;
 }
-   #download_section {
+    #download_section {
  display: none;
- }   
+ }    
 div#download_section {
   min-width: 55em;
 }
@@ -1366,4 +1366,19 @@ td.md-lg-font.invo-table-title.full-width-cell.inter-700 {
   z-index: 5;
   background-color: #85CEE4;
 }
+}
+
+
+.StampUBST {
+  width: 6em;
+  top: 15%;
+  left: 24%;
+  position: absolute;
+}
+.line-bstn-note { 
+  position: relative;
+  border-right: 3px solid #73cde1;
+  height: 17px;
+  right: -10px;
+
 }

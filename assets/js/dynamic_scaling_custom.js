@@ -70,7 +70,7 @@ function isSafari() {
     
       var link = document.createElement('a');
       link.href = dataURI;
-      link.download = 'MHG-Sales-invoice.pdf';
+      link.download = 'MHG-SO-Invoice_UBST.pdf';
       document.body.appendChild(link);
       link.click();
  

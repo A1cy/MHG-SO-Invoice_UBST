@@ -122,9 +122,9 @@ section {
   height: 100%;
   border-top: 2px solid #ccc;
 }
-    #download_section {
+   #download_section {
  display: none;
- }    
+ }     
 div#download_section {
   min-width: 55em;
 }
@@ -1368,10 +1368,14 @@ td.md-lg-font.invo-table-title.full-width-cell.inter-700 {
 }
 }
 
+.flex-start{
+display:flex ;
+justify-content: flex-start ;
+}
 
 .StampUBST {
   width: 6em;
-  top: 15%;
+  top: 12%;
   left: 24%;
   position: absolute;
 }

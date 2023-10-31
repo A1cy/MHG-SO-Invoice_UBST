@@ -124,7 +124,7 @@ section {
 }
    #download_section {
  display: none;
- }     
+ }       
 div#download_section {
   min-width: 55em;
 }
@@ -1376,7 +1376,7 @@ justify-content: flex-start ;
 .StampUBST {
   width: 6em;
   top: 12%;
-  left: 24%;
+  left: 7%;
   position: absolute;
 }
 .line-bstn-note { 
